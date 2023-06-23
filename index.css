@@ -141,7 +141,6 @@ header {
 }
 
 .article-img {
-    /* flex: 0 0 auto; */
     height: 100vw;
     max-height: 650px;
     box-shadow: .2rem .3rem #5e0101;
@@ -159,8 +158,6 @@ header {
 }
 
 .article-details {
-    display: flex;
-    justify-content: space-between;
     margin-bottom: 1rem;
 }
 
@@ -188,5 +185,11 @@ header {
     .show-image {
         height: unset;
         margin-bottom: unset;
+    }
+
+    .article-details {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 1rem;
     }
 }
