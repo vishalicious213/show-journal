@@ -22,6 +22,7 @@ header {
     outline: 1px solid red;
     text-align: center;
     font-family: 'Metal Mania', cursive;
+    letter-spacing: .1rem;
     padding: 1rem;
 }
 
@@ -66,6 +67,9 @@ header {
 
 .show-name {
     grid-area: name;
+    font-family: 'Metal Mania', cursive;
+    font-weight: 400;
+    letter-spacing: .05rem;
     margin-bottom: 1rem;
 }
 
