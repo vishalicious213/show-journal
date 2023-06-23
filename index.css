@@ -1,6 +1,3 @@
-/* font-family: 'Inter', sans-serif; */
-/* font-family: 'Metal Mania', cursive; */
-
 * {
     box-sizing: border-box;
     margin: 0;
@@ -19,11 +16,13 @@ body {
 /* HEADER */
 
 header {
-    outline: 1px solid red;
+    color: black;
+    text-shadow: 0 0 3px whitesmoke;
     text-align: center;
     font-family: 'Metal Mania', cursive;
     letter-spacing: .1rem;
     padding: 1rem;
+    background-image: url(./public/header-background.png);
 }
 
 /* GALLERY */
