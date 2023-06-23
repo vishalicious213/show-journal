@@ -2,11 +2,15 @@ import data from "../data"
 import Show from "./Show"
 
 export default function Gallery() {
-    console.log(data[0])
+    const shows = data.map(show => {
+        return (
+            <Show key={show.id} {...show}/>
+        )
+    })
     return (
         <section className="gallery container">
             <h2>Gallery</h2>
-            <Show {...data[0]} />
+            {shows}
         </section>
     )
 }
