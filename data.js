@@ -1,5 +1,15 @@
 export default [
     {
+        id: 7,
+        name: "The Market of the Beast",
+        location: "The Teragram Ballroom, Los Angeles",
+        map: "https://goo.gl/maps/hDovre5YBmRiPio4A",
+        date: "2022 Sep 25",
+        desc: `Took kiddos to The Market of the Beast. Really cool vendors. It's their first time having it in LA. They're billed as "A traveling and virtual dark art market for the weird, wild, occult and obscure." There was a lot of cool art and craftwork. I'm used to seeing paintings, sculptures, clothing and illustrations at art shows, but adding masks and an eclectic mix of knicknacks and weaponry made it really fun.`,
+        full: ``,
+        pics: ["2022-09-25-01.jpg", "2022-09-25-02.jpg", "2022-09-25-03.jpg", "2022-09-25-04.jpg", "2022-09-25-05.jpg", "2022-09-25-06.jpg", "2022-09-25-07.jpg", "2022-09-25-08.jpg", "2022-09-25-09.jpg", "2022-09-25-10.jpg", "2022-09-25-11.jpg", "2022-09-25-12.jpg", "2022-09-25-13.jpg"]
+    },
+    {
         id: 6,
         name: "Psycroptic / Fallujah / Interloper / Cognitive / Ophidia / Heave",
         location: "Whiskey A Go-Go, West Hollywood",
