@@ -2,21 +2,12 @@ import pin from "../public/pin.png"
 import Article from "./Article"
 
 export default function Show(props) {
-    function test(id) {
-        console.log("Test", id)
-        console.log(props.desc)
-        // return (
-        //     <Article />
-        // )
-    }
-
     return (
         <div className="show">
             <div 
                 className="show-image" 
                 data-id={props.id} 
-                style={{backgroundImage: `url(${props.pics[0]})`}}
-                onClick={() => test(props.id)}>
+                style={{backgroundImage: `url(${props.pics[0]})`}}>
             </div>
             <div className="show-details">
                 <p className="show-location"><a href={props.map} target="blank"><img src={pin} /></a> {props.location}</p>

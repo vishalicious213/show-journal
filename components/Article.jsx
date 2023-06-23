@@ -5,3 +5,6 @@ export default function Article() {
         <h1>ARTICLE</h1>
     )
 }
+
+// import ReactDOM from "react-dom/client"
+// ReactDOM.createRoot(document.getElementById("root")).render(<App />)

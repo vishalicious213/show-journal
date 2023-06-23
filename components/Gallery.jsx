@@ -5,6 +5,7 @@ export default function Gallery() {
     document.addEventListener("click", function(e) {
         if (e.target.dataset.id) {
             console.log("clicked", e.target.dataset.id)
+            console.log(data[e.target.dataset.id].desc)
         }
     })
 
