@@ -6,7 +6,9 @@
 
 body {
     font-family: 'Inter', sans-serif;
-    background-color: gainsboro;
+    background-color: #0f0f0f;
+    background-image: url(./public/body-background.png);
+    color: gainsboro;
 }
 
 .container {
@@ -22,6 +24,7 @@ header {
     font-family: 'Metal Mania', cursive;
     letter-spacing: .1rem;
     padding: 1rem;
+    background-color: #5e0101;
     background-image: url(./public/header-background.png);
 }
 
