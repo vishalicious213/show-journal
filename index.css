@@ -81,11 +81,13 @@ header {
 .show-date {
     grid-area: date;
     font-size: .7rem;
+    font-weight: 700;
     text-align: end;
     outline: 1px solid green;
 }
 
 .show-desc {
     grid-area: desc;
+    font-size: .9rem;
     outline: 1px solid blue;
 }
