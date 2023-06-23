@@ -1,9 +1,11 @@
+import pin from "../public/pin.png"
+
 export default function Show(props) {
     return (
         <div className="show">
             <div className="show-image" style={{backgroundImage: `url(${props.pics[0]})`}}></div>
             <div className="show-details">
-                <p className="show-location">{props.location}</p>
+                <p className="show-location"><img src={pin} /> {props.location}</p>
                 <p className="show-map">{props.map}</p>
                 <h2 className="show-name">{props.name}</h2>
                 <p className="show-date">{props.date}</p>
