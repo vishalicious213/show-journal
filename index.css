@@ -93,6 +93,13 @@ header {
     font-size: .9rem;
 }
 
+/* ARTICLE */
+
+.article {
+    height: 1rem;
+    outline: 1px solid red;
+}
+
 /* MEDIA QUERIES */
 
 @media screen and (min-width: 600px) {
