@@ -101,10 +101,37 @@ header {
 
 .article {
     border: 1px solid red;
+    position: absolute;
+    top: 0;
+    height: 100vh;
+    z-index: 1;
+    background-color: black;
+    padding: 1rem;
 }
 
-.article h1 {
-    color: red;
+.article-name {
+    font-family: 'Metal Mania', cursive;
+    color: #5e0101;
+    text-shadow: .1rem 0 4px white;
+    font-weight: 400;
+    letter-spacing: .05rem;
+}
+
+.article-details {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+
+.article-location {
+    font-size: .75rem;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+}
+
+.article-date {
+    font-size: .7rem;
+    font-weight: 700;
 }
 
 /* MEDIA QUERIES */

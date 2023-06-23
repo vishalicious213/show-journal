@@ -5,10 +5,12 @@ export default function renderArticle(data) {
 
     article.innerHTML=`
         <button>Close article</button>
-        <p>${data.location}</p>
-        <p>${data.date}</p>
-        <h1>${data.name}</h1>
-        <p>${data.desc}</p>
+        <h2 class="article-name">${data.name}</h2>
+        <div class="article-details">
+            <p class="article-location">${data.location}</p>
+            <p class="article-date">${data.date}</p>
+        </div
+        <div class="article-desc">${data.desc}</div>
     `
 }
 
