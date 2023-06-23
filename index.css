@@ -133,7 +133,7 @@ header {
 
 .article-pics {
     display: flex;
-    gap: .5rem;
+    gap: 1rem;
     overflow-x: scroll;
     margin: 0 auto 1rem;
     width: 84vw;
@@ -141,7 +141,13 @@ header {
 }
 
 .article-img {
-    flex: 0 0 auto;
+    /* flex: 0 0 auto; */
+    height: 100vw;
+    max-height: 650px;
+    box-shadow: .2rem .3rem #5e0101;
+    border-left: 1px solid #505050;
+    border-top: 1px solid #505050;
+    margin: 0 0 .75rem;
 }
 
 .article-name {
