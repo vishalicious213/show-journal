@@ -13,7 +13,7 @@ export default [
         id: 2,
         name: "TRAITRS / HALLOWS",
         location: "Catch One",
-        map: "https://reddit.com",
+        map: "https://goo.gl/maps/E7CzeMGPW45XeLQK7",
         date: "2022 Jul 21",
         desc: "At TRAITRS  and HALLOWS  show with Sue. Traitrs was more than I expected. Live, they're somewhere between The Cure and Jesu. Fantastic show.",
         full: ``,
