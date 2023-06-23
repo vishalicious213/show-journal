@@ -1,7 +1,7 @@
 export default function Gallery() {
     return (
-        <secton className="gallery">
+        <section className="gallery container">
             <h2>Gallery</h2>
-        </secton>
+        </section>
     )
 }

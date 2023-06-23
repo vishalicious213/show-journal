@@ -11,6 +11,10 @@ body {
     font-family: 'Inter', sans-serif;
 }
 
+.container {
+    padding: 0 2.5rem;
+}
+
 /* HEADER */
 
 header {
@@ -18,4 +22,10 @@ header {
     text-align: center;
     font-family: 'Metal Mania', cursive;
     padding: 1rem;
+}
+
+/* GALLERY */
+
+.gallery {
+    background-color: gainsboro;
 }
