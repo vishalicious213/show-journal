@@ -1,5 +1,4 @@
 import pin from "../public/pin.png"
-import Article from "./Article"
 
 export default function Show(props) {
     return (
