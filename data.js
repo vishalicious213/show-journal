@@ -1,6 +1,6 @@
 export default [
     // {
-    //     id: 2,
+    //     id: #,
     //     name: "Show Name 3",
     //     location: "show location",
     //     map: "https://reddit.com",
@@ -17,7 +17,7 @@ export default [
         date: "2022 Jul 21",
         desc: "At TRAITRS  and HALLOWS  show with Sue. Traitrs was more than I expected. Live, they're somewhere between The Cure and Jesu. Fantastic show.",
         full: ``,
-        pics: ["show-3.jpg", "show-1.jpg", "show-2.jpg"]
+        pics: ["2022-07-21-01.jpg", "2022-07-21-02.jpg", "2022-07-21-03.jpg", "2022-07-21-04.jpg", "2022-07-21-05.jpg", "2022-07-21-06.jpg", "2022-07-21-07.jpg", "2022-07-21-08.jpg"]
     },
     {
         id: 1,

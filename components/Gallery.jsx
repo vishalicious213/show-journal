@@ -7,8 +7,10 @@ export default function Gallery() {
 
     document.addEventListener("click", function(e) {
         if (e.target.dataset.id) {
-            article.innerText="ARTICLE"
-            renderArticle(data[e.target.dataset.id])
+            let target = data.filter(function(art) {
+                return art.id === parseInt(e.target.dataset.id)
+            })
+            renderArticle(target[0])
         }
 
         if (e.target.tagName === "BUTTON") {
