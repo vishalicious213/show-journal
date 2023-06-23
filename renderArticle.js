@@ -2,7 +2,6 @@
 export default function renderArticle(data) {
     const article = document.getElementById("article")
     article.classList.remove("hidden")
-    // console.log("TEST", data)
 
     article.innerHTML=`
         <button>Close article</button>
