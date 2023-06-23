@@ -1,11 +1,16 @@
 export default [
     {
         id: 0,
-        name: "Show Name 1",
-        location: "show location",
+        name: "Clutch @ The Observatory",
+        location: "The Observators, Santa Ana",
         map: "https://google.com",
-        date: "2022 Jan 01",
-        desc: "0 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        date: "2022 Mar 24",
+        desc: "Seeing Clutch with Russ. It's been around 20 years. My first show in CA. I could have brought the kids! Its all ages! A mother was here with her 2 kids and confirmed for me. She said if it says all ages, it's ALL ages.",
+        full: `
+            <p>paragraph 1</p>
+            <p>paragraph 2</p>
+            <img src="show-1.jpg" />
+        `,
         pics: ["show-1.jpg", "show-2.jpg", "show-3.jpg"]
     },
     {
@@ -15,6 +20,7 @@ export default [
         map: "https://wikipedia.org",
         date: "2022 Feb 01",
         desc: "1 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        full: ``,
         pics: ["show-2.jpg", "show-3.jpg", "show-1.jpg"]
     },
     {
@@ -24,6 +30,7 @@ export default [
         map: "https://reddit.com",
         date: "2022 Mar 01",
         desc: "2 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        full: ``,
         pics: ["show-3.jpg", "show-1.jpg", "show-2.jpg"]
     },
 ]
