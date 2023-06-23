@@ -6,7 +6,10 @@ export default [
         map: "https://goo.gl/maps/66mRqK87SzGYJtiP9",
         date: "2022 Mar 24",
         desc: "Seeing Clutch with Russ. It's been around 20 years. My first show in CA. I could have brought the kids! Its all ages! A mother was here with her 2 young daughters and confirmed for me. She said if it says all ages, it's ALL ages.",
-        full: ``,
+        full: `
+            <img class="content-pic" src="/shows/2022-03-24-08.jpg" />
+            <p>Eyehategod!</p>
+        `,
         pics: ["2022-03-24-01.jpg", "2022-03-24-02.jpg", "2022-03-24-03.jpg", "2022-03-24-04.jpg", "2022-03-24-05.jpg", "2022-03-24-06.jpg", "2022-03-24-07.jpg"]
     },
     {

@@ -172,6 +172,19 @@ header {
     font-weight: 700;
 }
 
+.content-pic {
+    display: block;
+    width: 90%;
+    max-width: 1000px;
+    margin: 1rem auto;
+}
+
+.content-container {
+    width: 100%;
+    margin: 0 auto;
+    padding-bottom: 3rem;
+}
+
 /* MEDIA QUERIES */
 
 @media screen and (min-width: 600px) {

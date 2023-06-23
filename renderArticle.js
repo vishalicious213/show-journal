@@ -14,6 +14,6 @@ export default function renderArticle(data) {
             <p class="article-date">${data.date}</p>
         </div
         <div class="article-desc">${data.desc}</div>
-        <div>${data.full}</div>
+        <div class="content-container">${data.full}</div>
     `
 }
