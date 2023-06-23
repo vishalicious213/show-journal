@@ -1,5 +1,5 @@
 export default [
-    // {
+        // {
     //     id: #,
     //     name: "Show Name 3",
     //     location: "show location",
@@ -9,6 +9,16 @@ export default [
     //     full: ``,
     //     pics: ["show-3.jpg", "show-1.jpg", "show-2.jpg"]
     // },
+    {
+        id: 3,
+        name: "Bat's Day at the Beach",
+        location: "Will Roger's State Beach, Pacific Palisades",
+        map: "https://goo.gl/maps/JCZS5iKfc1xV6UDC6",
+        date: "2022 Jul 23",
+        desc: "Took Sue and went to Bat's Day at the Beach, an annual event where goths go out into the sunlight and see if they'll burn up. Fortunately, no one combusted. We met Ed Talorda, the guitarist from Disgorge, a CA death metal band.",
+        full: ``,
+        pics: ["2022-07-23-01.jpg", "2022-07-23-02.jpg", "2022-07-23-03.jpg"]
+    },
     {
         id: 2,
         name: "TRAITRS / HALLOWS",
