@@ -73,6 +73,8 @@ header {
 .show-name {
     grid-area: name;
     font-family: 'Metal Mania', cursive;
+    color: #5e0101;
+    text-shadow: .1rem 0 4px white;
     font-weight: 400;
     letter-spacing: .05rem;
     margin-bottom: 1rem;
