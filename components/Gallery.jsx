@@ -13,6 +13,7 @@ export default function Gallery() {
 
         if (e.target.tagName === "BUTTON") {
             article.classList.add("hidden")
+            root.classList.remove("hidden")
         }
     })
 
