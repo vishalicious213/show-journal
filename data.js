@@ -6,7 +6,8 @@ export default [
         map: "https://goo.gl/maps/KckPHM7fL52CDWPeA",
         date: "2022 Sep 11",
         desc: "🤘 with Sue. All of the bands were good, but Interloper and Fallujah were incredible. The Whiskey is a fantastic venue. It's quaint, warm and inviting - and it's right next to Rainbow.",
-        full: `<p class="content-text">This was our first time meeting Jessica. She was up front with us, to the right of Sue. At some point during the show, she needed to step away and asked Sue to keep her place, which she did. Towards the end of the show, they exchanged numbers. A few months later, they hit some shows together. Later, I met them for eats in Koreatown. After that, we all started going to shows together.</p>`,
+        full: `<p class="content-text">This was our first time meeting Jessica. She was up front with us, to the right of Sue. At some point during the show, she needed to step away and asked Sue to keep her place, which she did. Towards the end of the show, they exchanged numbers. A few months later, they hit some shows together. Later, I met them for eats in Koreatown. After that, we all started going to shows together.</p>
+        <p class="content-text">As an aside, Killian Duarte is playing bass for Fallujah now. I used to share his videos on my old bass blog, sometime in the early 2010's. It was amazing to see him play live. Interloper completely blew me away. They have two guitarists and a drummer, but no bassist. They play 8-string guitars though and still fill in the low end. Their set was technical and heavy. I need to see them again.</p>`,
         pics: ["2022-09-11-01.jpg", "2022-09-11-02.jpg", "2022-09-11-03.jpg", "2022-09-11-04.jpg", "2022-09-11-05.jpg", "2022-09-11-06.jpg", "2022-09-11-07.jpg", "2022-09-11-08.jpg", "2022-09-11-09.jpg", "2022-09-11-10.jpg", "2022-09-11-11.jpg", "2022-09-11-12.jpg", "2022-09-11-13.jpg", "2022-09-11-14.jpg", "2022-09-11-15.jpg", "2022-09-11-16.jpg"]
     },
     {
