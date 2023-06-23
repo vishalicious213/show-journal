@@ -10,6 +10,16 @@ export default [
     //     pics: ["show-3.jpg", "show-1.jpg", "show-2.jpg"]
     // },
     {
+        id: 4,
+        name: "The Cured (Cure cover band)",
+        location: "The Hangar @ the Orange County Fair, Costa Mesa",
+        map: "https://goo.gl/maps/DpJaMinB5wuFqEE38",
+        date: "2022 Jul 27",
+        desc: "Saw The Cured with Sue. It was the singer's last show after a car accident. They did Fascination Street and Pictures of You, two of my favorites, and Love Cats, Sue's favorite. I wish they also did Disintegration, that would have been all of my top three. Surprisingly, they did A Forest. Behemoth and Carpathian Forest have interesting covers of that.",
+        full: ``,
+        pics: ["2022-07-27-01.jpg", "2022-07-27-02.jpg", "2022-07-27-03.jpg"]
+    },
+    {
         id: 3,
         name: "Bat's Day at the Beach",
         location: "Will Roger's State Beach, Pacific Palisades",
