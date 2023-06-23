@@ -1,9 +1,11 @@
 
 export default function renderArticle(data) {
-    const article = document. getElementById("article")
-    console.log("TEST", data)
+    const article = document.getElementById("article")
+    article.classList.remove("hidden")
+    // console.log("TEST", data)
 
     article.innerHTML=`
+        <button>Close article</button>
         <p>${data.location}</p>
         <p>${data.date}</p>
         <h1>${data.name}</h1>

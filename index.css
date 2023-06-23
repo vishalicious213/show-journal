@@ -95,9 +95,16 @@ header {
 
 /* ARTICLE */
 
+.hidden {
+    display: none;
+}
+
 .article {
-    height: 1rem;
-    outline: 1px solid red;
+    border: 1px solid red;
+}
+
+.article h1 {
+    color: red;
 }
 
 /* MEDIA QUERIES */

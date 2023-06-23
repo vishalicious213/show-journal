@@ -1,17 +1,23 @@
 import data from "../data"
 import Show from "./Show"
-import renderArticle from "../test"
+import renderArticle from "../renderArticle"
 
 export default function Gallery() {
     const article = document. getElementById("article")
-    console.log(article)
+    // console.log(article)
 
     document.addEventListener("click", function(e) {
+        // console.log(e.target)
         if (e.target.dataset.id) {
-            console.log("clicked", e.target.dataset.id)
-            console.log(data[e.target.dataset.id].desc)
+            // console.log("clicked", e.target.dataset.id)
+            // console.log(data[e.target.dataset.id].desc)
             article.innerText="ARTICLE"
             renderArticle(data[e.target.dataset.id])
+        }
+
+        if (e.target.tagName === "BUTTON") {
+            console.log("Button clicked")
+            article.classList.add("hidden")
         }
     })
 
