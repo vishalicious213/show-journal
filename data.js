@@ -1,4 +1,40 @@
 export default [
+    // {
+    //     id: 2,
+    //     name: "Show Name 3",
+    //     location: "show location",
+    //     map: "https://reddit.com",
+    //     date: "2022 Mar 01",
+    //     desc: "Lorem ipsum dolor sit amet.",
+    //     full: ``,
+    //     pics: ["show-3.jpg", "show-1.jpg", "show-2.jpg"]
+    // },
+    {
+        id: 2,
+        name: "Show Name 3",
+        location: "show location",
+        map: "https://reddit.com",
+        date: "2022 Mar 01",
+        desc: "2 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        full: ``,
+        pics: ["show-3.jpg", "show-1.jpg", "show-2.jpg"]
+    },
+    {
+        id: 1,
+        name: "Arch Enemy / Behemoth / Napalm Death / Unto Others",
+        location: "Hollywood Palladium, Los Angeles",
+        map: "https://goo.gl/maps/tB9Qvj5oRcBE3QWW9",
+        date: "2022 May 15",
+        desc: "Hitting Behemoth, Arch Enemy, Napalm Death and Unto Others with Sue. My 3rd time seeing Behemoth and 3rd seeing Napalm Death. Her 4th time seeing Napalm Death, 1st for the others.",
+        full: `
+            <img class="content-pic" src="/shows/2022-05-15-01.jpg" />
+
+            <p class="content-text">The lines outside of Hollywood Palladium were long, but moved quickly. I didn't get any shots of Arch Enemy. Their crowd was unbelievable. We were packed like sardines and I couldn't get my arms up to take any clean shots, plus I was trying to keep Sue from getting crushed by the weight of the horde.</p>
+
+            <p class="content-text">It was both of our first times seeing Unto Others, the openers. We were really impressed with them. I ended up getting their latest album, "Strength". They're like a heavier version of Sisters of Mercy, with one foot in Iron Maiden and one in gothic rock.</p>
+        `,
+        pics: ["2022-05-15-02.jpg", "2022-05-15-03.jpg", "2022-05-15-04.jpg", "2022-05-15-05.jpg", "2022-05-15-06.jpg", "2022-05-15-07.jpg", "2022-05-15-09.jpg", "2022-05-15-10.jpg", "2022-05-15-11.jpg", "2022-05-15-12.jpg", "2022-05-15-13.jpg", "2022-05-15-14.jpg"]
+    },
     {
         id: 0,
         name: "Clutch / Eyehategod / Tigercub",
@@ -11,25 +47,5 @@ export default [
             <p>Eyehategod!</p>
         `,
         pics: ["2022-03-24-01.jpg", "2022-03-24-02.jpg", "2022-03-24-03.jpg", "2022-03-24-04.jpg", "2022-03-24-05.jpg", "2022-03-24-06.jpg", "2022-03-24-07.jpg"]
-    },
-    {
-        id: 1,
-        name: "Show Name 2",
-        location: "show location",
-        map: "https://wikipedia.org",
-        date: "2022 Feb 01",
-        desc: "1 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        full: ``,
-        pics: ["show-2.jpg", "show-3.jpg", "show-1.jpg"]
-    },
-    {
-        id: 2,
-        name: "Show Name 3",
-        location: "show location",
-        map: "https://reddit.com",
-        date: "2022 Mar 01",
-        desc: "2 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        full: ``,
-        pics: ["show-3.jpg", "show-1.jpg", "show-2.jpg"]
-    },
+    }
 ]

@@ -34,7 +34,7 @@ header {
     padding-top: 3rem;
 }
 
-/* SHOWS */
+/* SHOWS (in Gallery) */
 
 .show {
     display: flex;
@@ -98,7 +98,7 @@ header {
     font-size: .9rem;
 }
 
-/* ARTICLE */
+/* ARTICLE (individual pages) */
 
 .hidden {
     display: none;
@@ -172,6 +172,12 @@ header {
     font-weight: 700;
 }
 
+.content-container {
+    width: 100%;
+    margin: 0 auto;
+    padding-bottom: 3rem;
+}
+
 .content-pic {
     display: block;
     width: 90%;
@@ -179,10 +185,8 @@ header {
     margin: 1rem auto;
 }
 
-.content-container {
-    width: 100%;
-    margin: 0 auto;
-    padding-bottom: 3rem;
+.content-text {
+    margin-bottom: 1rem;
 }
 
 /* MEDIA QUERIES */
