@@ -15,7 +15,7 @@ export default [
         map: "google map link",
         date: "2022 Feb 01",
         desc: "show desc",
-        pics: ["show-1.jpg", "show-2.jpg", "show-3.jpg"]
+        pics: ["show-2.jpg", "show-3.jpg", "show-1.jpg"]
     },
     {
         id: 2,
@@ -24,6 +24,6 @@ export default [
         map: "google map link",
         date: "2022 Mar 01",
         desc: "show desc",
-        pics: ["show-1.jpg", "show-2.jpg", "show-3.jpg"]
+        pics: ["show-3.jpg", "show-1.jpg", "show-2.jpg"]
     },
 ]

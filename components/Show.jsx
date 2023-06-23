@@ -1,5 +1,4 @@
 export default function Show(props) {
-    console.log(props)
     return (
         <div className="show">
             <img src={props.pics[0]} alt={props.name} />

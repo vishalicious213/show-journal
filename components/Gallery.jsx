@@ -7,6 +7,7 @@ export default function Gallery() {
             <Show key={show.id} {...show}/>
         )
     })
+
     return (
         <section className="gallery container">
             <h2>Gallery</h2>
