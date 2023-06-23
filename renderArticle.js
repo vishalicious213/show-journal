@@ -1,7 +1,7 @@
 
 export default function renderArticle(data) {
     const article = document.getElementById("article")
-    const pics = data.pics.map(pic => `<img class="article-img" src=${pic} alt=${data.name} />`).join("")
+    const pics = data.pics.map(pic => `<img class="article-img" src=/shows/${pic} alt=${data.name} />`).join("")
     article.classList.remove("hidden")
     root.classList.add("hidden")
 

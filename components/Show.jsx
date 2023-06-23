@@ -6,7 +6,7 @@ export default function Show(props) {
             <div 
                 className="show-image" 
                 data-id={props.id} 
-                style={{backgroundImage: `url(${props.pics[0]})`}}>
+                style={{backgroundImage: `url(/shows/${props.pics[0]})`}}>
             </div>
             <div className="show-details">
                 <p className="show-location"><a href={props.map} target="blank"><img src={pin} /></a> {props.location}</p>

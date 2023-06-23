@@ -11,7 +11,7 @@ export default [
             <p>paragraph 2</p>
             <img src="show-1.jpg" />
         `,
-        pics: ["show-1.jpg", "show-2.jpg", "show-3.jpg"]
+        pics: ["2022-03-24-01.jpg", "2022-03-24-02.jpg", "2022-03-24-03.jpg", "2022-03-24-04.jpg", "2022-03-24-05.jpg", "2022-03-24-06.jpg", "2022-03-24-07.jpg"]
     },
     {
         id: 1,
