@@ -51,6 +51,7 @@ header {
     background-position: center;
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
+    box-shadow: .2rem .3rem #5e0101;
 }
 
 .show-details {
