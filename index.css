@@ -109,6 +109,23 @@ header {
     padding: 1rem;
 }
 
+.article-button {
+    width: 100%;
+    padding: .5rem;
+    margin-bottom: 1rem;
+    outline: none;
+    border: none;
+    border-radius: .25rem;
+    background-color: #5e0101;
+    background-image: url(./public/header-background.png);
+    color: gainsboro;
+    text-transform: uppercase;
+}
+
+.article-button:hover {
+    outline: 1px solid gainsboro;
+}
+
 .article-name {
     font-family: 'Metal Mania', cursive;
     color: #5e0101;

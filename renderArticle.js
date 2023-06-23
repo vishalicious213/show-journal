@@ -4,7 +4,7 @@ export default function renderArticle(data) {
     article.classList.remove("hidden")
 
     article.innerHTML=`
-        <button>Close article</button>
+        <button class="article-button">Close article</button>
         <h2 class="article-name">${data.name}</h2>
         <div class="article-details">
             <p class="article-location">${data.location}</p>
