@@ -1,7 +1,6 @@
 import data from "../data"
 import Show from "./Show"
 import test from "../test"
-import Article from "./Article"
 
 export default function Gallery() {
     const article = document. getElementById("article")
