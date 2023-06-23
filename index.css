@@ -100,12 +100,12 @@ header {
 }
 
 .article {
-    border: 1px solid red;
     position: absolute;
     top: 0;
     height: 100vh;
     z-index: 1;
-    background-color: black;
+    background-color: #0f0f0f;
+    background-image: url(./public/body-background.png);
     padding: 1rem;
 }
 
