@@ -37,6 +37,12 @@ header {
     /* outline: 1px solid red; */
     display: grid;
     grid-template-columns: 1fr 3fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-template-areas:
+        "pic details"
+        "pic details"
+        "pic details"
+        "pic details";
     gap: 1rem;
     margin-bottom: 2.25rem;
 }
@@ -46,4 +52,9 @@ header {
     background-size: cover;
     background-position: center;
     border-radius: 1rem;
+    grid-area: pic;
+}
+
+.show-details {
+    grid-area: details;
 }
