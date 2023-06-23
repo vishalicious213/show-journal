@@ -126,6 +126,19 @@ header {
     outline: 1px solid gainsboro;
 }
 
+.article-pics {
+    display: flex;
+    gap: .5rem;
+    overflow-x: scroll;
+    margin: 0 auto 1rem;
+    width: 84vw;
+    box-sizing: border-box;
+}
+
+.article-img {
+    flex: 0 0 auto;
+}
+
 .article-name {
     font-family: 'Metal Mania', cursive;
     color: #5e0101;
