@@ -49,7 +49,7 @@ header {
 
 .show-details {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr .5fr;
     grid-template-rows: auto auto auto auto;
     grid-template-areas:
         "loc  map"
@@ -60,11 +60,16 @@ header {
 
 .show-location {
     grid-area: loc;
+    font-size: .75rem;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
     outline: 1px solid red;
 }
 
 .show-map {
     grid-area: map;
+    font-size: .7rem;
+    text-align: end;
     outline: 1px solid orange;
 }
 
