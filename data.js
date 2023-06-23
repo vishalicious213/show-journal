@@ -1,14 +1,14 @@
 export default [
-        // {
-    //     id: #,
-    //     name: "Show Name 3",
-    //     location: "show location",
-    //     map: "https://reddit.com",
-    //     date: "2022 Mar 01",
-    //     desc: "Lorem ipsum dolor sit amet.",
-    //     full: ``,
-    //     pics: ["show-3.jpg", "show-1.jpg", "show-2.jpg"]
-    // },
+    {
+        id: 6,
+        name: "Psycroptic / Fallujah / Interloper / Cognitive / Ophidia / Heave",
+        location: "Whiskey A Go-Go, West Hollywood",
+        map: "https://goo.gl/maps/KckPHM7fL52CDWPeA",
+        date: "2022 Sep 11",
+        desc: "🤘 with Sue. All of the bands were good, but Interloper and Fallujah were incredible. The Whiskey is a fantastic venue. It's quaint, warm and inviting - and it's right next to Rainbow.",
+        full: `<p class="content-text">This was our first time meeting Jessica. She was up front with us, to the right of Sue. At some point during the show, she needed to step away and asked Sue to keep her place, which she did. Towards the end of the show, they exchanged numbers. A few months later, they hit some shows together. Later, I met them for eats in Koreatown. After that, we all started going to shows together.</p>`,
+        pics: ["2022-09-11-01.jpg", "2022-09-11-02.jpg", "2022-09-11-03.jpg", "2022-09-11-04.jpg", "2022-09-11-05.jpg", "2022-09-11-06.jpg", "2022-09-11-07.jpg", "2022-09-11-08.jpg", "2022-09-11-09.jpg", "2022-09-11-10.jpg", "2022-09-11-11.jpg", "2022-09-11-12.jpg", "2022-09-11-13.jpg", "2022-09-11-14.jpg", "2022-09-11-15.jpg", "2022-09-11-16.jpg"]
+    },
     {
         id: 5,
         name: "Kidz Bop",
