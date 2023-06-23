@@ -54,6 +54,10 @@ header {
     box-shadow: .2rem .3rem #5e0101;
 }
 
+.show-image:hover {
+    cursor: pointer;
+}
+
 .show-details {
     display: grid;
     grid-template-columns: 1fr .5fr;
