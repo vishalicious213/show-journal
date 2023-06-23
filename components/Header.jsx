@@ -1,5 +1,7 @@
 export default function Header() {
     return (
-        <h2>Header</h2>
+        <header>
+            <h1>Show Journal</h1>
+        </header>
     )
 }
