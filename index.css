@@ -9,6 +9,7 @@
 
 body {
     font-family: 'Inter', sans-serif;
+    background-color: gainsboro;
 }
 
 .container {
@@ -27,7 +28,6 @@ header {
 /* GALLERY */
 
 .gallery {
-    background-color: gainsboro;
     padding-top: 3rem;
 }
 
