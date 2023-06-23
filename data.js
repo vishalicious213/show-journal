@@ -1,9 +1,9 @@
 export default [
     {
         id: 0,
-        name: "Clutch @ The Observatory",
-        location: "The Observators, Santa Ana",
-        map: "https://google.com",
+        name: "Clutch / Eyehategod / Tigercub",
+        location: "The Observatory, Santa Ana",
+        map: "https://goo.gl/maps/66mRqK87SzGYJtiP9",
         date: "2022 Mar 24",
         desc: "Seeing Clutch with Russ. It's been around 20 years. My first show in CA. I could have brought the kids! Its all ages! A mother was here with her 2 kids and confirmed for me. She said if it says all ages, it's ALL ages.",
         full: `
