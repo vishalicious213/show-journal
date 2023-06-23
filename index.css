@@ -52,6 +52,7 @@ header {
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
     box-shadow: .2rem .3rem #5e0101;
+    border-left: 1px solid #aaaaaa;
 }
 
 .show-image:hover {
