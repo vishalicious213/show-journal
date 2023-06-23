@@ -1,6 +1,6 @@
 import data from "../data"
 import Show from "./Show"
-import test from "../test"
+import renderArticle from "../test"
 
 export default function Gallery() {
     const article = document. getElementById("article")
@@ -11,7 +11,7 @@ export default function Gallery() {
             console.log("clicked", e.target.dataset.id)
             console.log(data[e.target.dataset.id].desc)
             article.innerText="ARTICLE"
-            test(data[e.target.dataset.id])
+            renderArticle(data[e.target.dataset.id])
         }
     })
 

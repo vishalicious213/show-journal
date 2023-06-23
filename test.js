@@ -1,5 +1,5 @@
 
-export default function test(data) {
+export default function renderArticle(data) {
     const article = document. getElementById("article")
     console.log("TEST", data)
 
