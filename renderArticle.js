@@ -16,11 +16,3 @@ export default function renderArticle(data) {
         <div class="article-desc">${data.desc}</div>
     `
 }
-
-// id: 0,
-// name: "show name 1",
-// location: "show location",
-// map: "google map link",
-// date: "2022 Jan 01",
-// desc: "show desc",
-// pics: ["show-1.jpg", "show-2.jpg", "show-3.jpg"]
