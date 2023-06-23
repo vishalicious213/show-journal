@@ -6,7 +6,7 @@ export default function Show(props) {
             <div className="show-image" style={{backgroundImage: `url(${props.pics[0]})`}}></div>
             <div className="show-details">
                 <p className="show-location"><img src={pin} /> {props.location}</p>
-                <p className="show-map">{props.map}</p>
+                <p className="show-map"><a href={props.map} target="blank">View on Google Maps</a></p>
                 <h2 className="show-name">{props.name}</h2>
                 <p className="show-date">{props.date}</p>
                 <p className="show-desc">{props.desc}</p>
