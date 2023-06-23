@@ -40,6 +40,8 @@ header {
     margin-bottom: 2.25rem;
 }
 
-.show img {
-    width: 100%;
+.show-image {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
