@@ -34,15 +34,8 @@ header {
 /* SHOWS */
 
 .show {
-    /* outline: 1px solid red; */
     display: grid;
     grid-template-columns: 1fr 3fr;
-    grid-template-rows: 1fr 1fr 1fr 1fr;
-    grid-template-areas:
-        "pic details"
-        "pic details"
-        "pic details"
-        "pic details";
     gap: 1rem;
     margin-bottom: 2.25rem;
 }
@@ -52,9 +45,40 @@ header {
     background-size: cover;
     background-position: center;
     border-radius: 1rem;
-    grid-area: pic;
 }
 
 .show-details {
-    grid-area: details;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto auto auto;
+    grid-template-areas:
+        "loc  map"
+        "name name"
+        "date date"
+        "desc desc";
+}
+
+.show-location {
+    grid-area: loc;
+    outline: 1px solid red;
+}
+
+.show-map {
+    grid-area: map;
+    outline: 1px solid orange;
+}
+
+.show-name {
+    grid-area: name;
+    outline: 1px solid yellow;
+}
+
+.show-date {
+    grid-area: date;
+    outline: 1px solid green;
+}
+
+.show-desc {
+    grid-area: desc;
+    outline: 1px solid blue;
 }
