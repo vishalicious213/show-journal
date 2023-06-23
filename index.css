@@ -185,7 +185,7 @@ header {
     margin: 1rem auto;
 }
 
-.content-text {
+.content-text, .article-desc {
     margin-bottom: 1rem;
 }
 

@@ -10,6 +10,18 @@ export default [
     //     pics: ["show-3.jpg", "show-1.jpg", "show-2.jpg"]
     // },
     {
+        id: 5,
+        name: "Kidz Bop",
+        location: "Hollywood Bowl, Los Angeles",
+        map: "https://goo.gl/maps/gUBC1Di5Y5uD9nBPA",
+        date: "2022 Aug 31",
+        desc: "Kidz Bop with the kiddos. Reeree couldn't make it because mom isn't feeling well, so Sue is filling in. Had this planned for Ella's birthday for the past 3 months. Glad we got to go. Our first time at the Hollywood Bowl, but Sue has been here before.",
+        full: `<p class="content-text">This was the girls' first concert outside of the ones they've been to at school. They had a blast and were dancing in the aisles and on the stairs. Kidz Bop has a cadre of kid singers and dancers who perform renditions of pop songs with dance choreography. The girls have watched their videos on YouTube for years. Ella used to dance along to them when she was Kara's age and younger.</p>
+        
+        <p class="content-text">Sue met us on short notice after Rita had to drop out to stay with our mom, who wasn't well.</p>`,
+        pics: ["2022-08-31-01.jpg", "2022-08-31-02.jpg", "2022-08-31-03.jpg", "2022-08-31-04.jpg", "2022-08-31-05.jpg", "2022-08-31-06.jpg", "2022-08-31-07.jpg", "2022-08-31-08.jpg", "2022-08-31-09.jpg", "2022-08-31-10.jpg", "2022-08-31-11.jpg", "2022-08-31-12.jpg", "2022-08-31-13.jpg", "2022-08-31-14.jpg", "2022-08-31-15.jpg", "2022-08-31-16.jpg"]
+    },
+    {
         id: 4,
         name: "The Cured (Cure cover band)",
         location: "The Hangar @ the Orange County Fair, Costa Mesa",

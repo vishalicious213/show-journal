@@ -12,7 +12,7 @@ export default function renderArticle(data) {
         <div class="article-details">
             <p class="article-location">${data.location}</p>
             <p class="article-date">${data.date}</p>
-        </div
+        </div>
         <div class="article-desc">${data.desc}</div>
         <div class="content-container">${data.full}</div>
     `
