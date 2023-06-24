@@ -1,5 +1,17 @@
 export default [
     {
+        id: 9,
+        name: "TRAITRS / She Past Away / Sacred Skin",
+        location: "The Belasco, Los Angeles",
+        map: "https://goo.gl/maps/auTy8RCvwJ5tSjvZ8",
+        date: "2022 Oct 30",
+        desc: `This was the 2nd time that Sue and I saw TRAITRS, and it was the day before Halloween - but their set was cut short 🙁. They played with She Past Away and Sacred Skin this time around. They've become one of my favorite post-punk bands since discovering them last year on a goth subreddit. I think of them as a modernized version of The Cure.`,
+        full: `<p class="content-text">After TRAITRS set was cut, I remember the tone of the show changed a lot. She Past Away came up, and while their set was enjoyable, a group of girls in their early 20's came up to the front and were really pushy. It was surprising to me, because back in NY, there's show etiquette, and normally people don't shove so much at goth, post-punk or darkwave types of shows. This was different. This group of drunk girls were trying to shove their way through everyone in the front. They almost got into a fight with some of the women and couples who had been there before them. The people they tried to push through were generally older, around my age range, from what I can tell.</p>
+        
+        <p class="content-text">There were also a few guys on the other side who were trying to start a mosh pit. I'm not against that, but it doesn't fit this type of music. Post-punk isn't aggressive enough for it, and I heard three of the guys who were trying to start a circle pit talk about going to death metal shows, so they know the difference.</p>`,
+        pics: ["2022-10-30-01.jpg", "2022-10-30-02.jpg", "2022-10-30-03.jpg", "2022-10-30-04.jpg", "2022-10-30-05.jpg", "2022-10-30-06.jpg", "2022-10-30-07.jpg", "2022-10-30-08.jpg", "2022-10-30-09.jpg"]
+    },
+    {
         id: 8,
         name: "Front 242 / Xeno & Oaklander / Actors / Kite / Leathers",
         location: "The Mayan, Los Angeles",
@@ -31,6 +43,7 @@ export default [
         date: "2022 Sep 11",
         desc: "🤘 with Sue. All of the bands were good, but Interloper and Fallujah were incredible. The Whiskey is a fantastic venue. It's quaint, warm and inviting - and it's right next to Rainbow.",
         full: `<p class="content-text">This was our first time meeting Jessica. She was up front with us, to the right of Sue. At some point during the show, she needed to step away and asked Sue to keep her place, which she did. Towards the end of the show, they exchanged numbers. A few months later, they hit some shows together. Later, I met them for eats in Koreatown. After that, we all started going to shows together.</p>
+
         <p class="content-text">As an aside, Killian Duarte is playing bass for Fallujah now. I used to share his videos on my old bass blog, sometime in the early 2010's. It was amazing to see him play live. Interloper completely blew me away. They have two guitarists and a drummer, but no bassist. They play 8-string guitars though and still fill in the low end. Their set was technical and heavy. I need to see them again.</p>`,
         pics: ["2022-09-11-01.jpg", "2022-09-11-02.jpg", "2022-09-11-03.jpg", "2022-09-11-04.jpg", "2022-09-11-05.jpg", "2022-09-11-06.jpg", "2022-09-11-07.jpg", "2022-09-11-08.jpg", "2022-09-11-09.jpg", "2022-09-11-10.jpg", "2022-09-11-11.jpg", "2022-09-11-12.jpg", "2022-09-11-13.jpg", "2022-09-11-14.jpg", "2022-09-11-15.jpg", "2022-09-11-16.jpg"]
     },
