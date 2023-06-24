@@ -1,5 +1,17 @@
 export default [
     {
+        id: 10,
+        name: "Covet / Their/They're/There / Tsosis",
+        location: "The Glass House, Pomona",
+        map: "https://goo.gl/maps/E7CzeMGPW45XeLQK7",
+        date: "2022 Dec 15",
+        desc: "I waited for two months to see Covet, and they played at The Glass House, which is 15 minutes away from where I live at the time of this writing (this show was my first time there). Yvette Young's guitarwork and compositional skill are jaw-dropping, but they almost didn't make the show",
+        full: `<p class="content-text">During an earlier stop, someone broke into their tour van (which they had only just gotten) and stole their equipment. They were devastated, but set up a fundraiser and fans came through with enough money for them to replace their tour van and equipment and continue on. It was an emotional tour for them.</p>
+
+        <p class="content-text">Their/They're/There were ok, but came across to me as essentially being 90's-style college rock. Tsosis (formerly known as The Speed of Sound in Seawater) were interesting and had a more creative set. They're a duo with a guitarist and drummer. I missed the opening half of their set while trying to park, which was disappointing, because I enjoyed their sound.</p>`,
+        pics: ["2022-12-15-01.jpg", "2022-12-15-02.jpg", "2022-12-15-03.jpg", "2022-12-15-04.jpg", "2022-12-15-05.jpg", "2022-12-15-06.jpg"]
+    },
+    {
         id: 9,
         name: "TRAITRS / She Past Away / Sacred Skin",
         location: "The Belasco, Los Angeles",
