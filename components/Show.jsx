@@ -2,7 +2,7 @@ import pin from "../public/pin.png"
 
 export default function Show(props) {
     return (
-        <div className="show">
+        <div className="show" id={props.id}>
             <div 
                 className="show-image" 
                 data-id={props.id} 

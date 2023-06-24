@@ -14,8 +14,11 @@ export default function Gallery() {
         }
 
         if (e.target.tagName === "BUTTON") {
+            const scrollID = document.querySelector("BUTTON").dataset.article
+            const scrollToArticle = document.getElementById(scrollID)
             article.classList.add("hidden")
             root.classList.remove("hidden")
+            scrollToArticle.scrollIntoView()
         }
     })
 
