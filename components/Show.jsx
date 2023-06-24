@@ -7,7 +7,7 @@ export default function Show(props) {
                 className="show-image" 
                 data-id={props.id} 
                 style={{backgroundImage: `url(/shows/${props.pics[0]})`}}>
-                <span className="click-msg">Click for more</span>
+                <span className="click-msg" data-id={props.id} >Click for more</span>
             </div>
             <div className="show-details">
                 <p className="show-location"><a href={props.map} target="blank"><img src={pin} /></a> {props.location}</p>
