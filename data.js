@@ -1,5 +1,15 @@
 export default [
     {
+        id: 11,
+        name: "Twinkle Time",
+        location: "La Mirada Theatre for the Performing Arts, La Mirada",
+        map: "https://goo.gl/maps/U3ZedtLFFS79azvX7",
+        date: "2023 Mar 05",
+        desc: `Took the kiddos to see Twinkle Time after an ad for it popped up in my FB feed. It's described as being like Lady Gaga for kids. The show was a set of poppy songs, sometimes with a hip hop backbeat and sometimes more pop or electronic-driven. Some of it was in Spanish. Everyone but the drummer danced throughout the set and they had colorful costumes, which the littler one was drawn to`,
+        full: ``,
+        pics: ["2023-03-05-01.jpg", "2023-03-05-02.jpg", "2023-03-05-03.jpg", "2023-03-05-04.jpg", "2023-03-05-05.jpg", "2023-03-05-06.jpg", "2023-03-05-08.jpg", "2023-03-05-09.jpg", "2023-03-05-10.jpg", "2023-03-05-11.jpg", "2023-03-05-12.jpg", "2023-03-05-13.jpg", "2023-03-05-14.jpg", "2023-03-05-15.jpg", "2023-03-05-16.jpg", "2023-03-05-17.jpg", "2023-03-05-18.jpg", "2023-03-05-19.jpg", "2023-03-05-20.jpg", "2023-03-05-21.jpg", "2023-03-05-22.jpg", "2023-03-05-23.jpg", "2023-03-05-24.jpg", "2023-03-05-25.jpg", "2023-03-05-26.jpg"]
+    },
+    {
         id: 10,
         name: "Covet / Their/They're/There / Tsosis",
         location: "The Glass House, Pomona",
