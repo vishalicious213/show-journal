@@ -3,7 +3,7 @@ export default [
         id: 10,
         name: "Covet / Their/They're/There / Tsosis",
         location: "The Glass House, Pomona",
-        map: "https://goo.gl/maps/E7CzeMGPW45XeLQK7",
+        map: "https://goo.gl/maps/Xoy4Ph8tdSu16r4Z7",
         date: "2022 Dec 15",
         desc: "I waited for two months to see Covet, and they played at The Glass House, which is 15 minutes away from where I live at the time of this writing (this show was my first time there). Yvette Young's guitarwork and compositional skill are jaw-dropping, but they almost didn't make the show",
         full: `<p class="content-text">During an earlier stop, someone broke into their tour van (which they had only just gotten) and stole their equipment. They were devastated, but set up a fundraiser and fans came through with enough money for them to replace their tour van and equipment and continue on. It was an emotional tour for them.</p>
