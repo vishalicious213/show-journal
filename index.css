@@ -9,6 +9,8 @@ body {
     background-color: #0f0f0f;
     background-image: url(./public/body-background.png);
     color: gainsboro;
+    max-width: 1000px;
+    margin: 0 auto;
 }
 
 .container {
@@ -112,6 +114,7 @@ header {
     background-color: #0f0f0f;
     background-image: url(./public/body-background.png);
     padding: 1rem;
+    max-width: 1000px;
 }
 
 .article-button {
@@ -137,6 +140,7 @@ header {
     overflow-x: scroll;
     margin: 0 auto 1rem;
     width: 84vw;
+    max-width: 1000px;
     box-sizing: border-box;
 }
 
