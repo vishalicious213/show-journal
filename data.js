@@ -1,5 +1,17 @@
 export default [
     {
+        id: 12,
+        name: "Death To All / Suffocation / Nukem",
+        location: "The Belasco, Los Angeles",
+        map: "https://goo.gl/maps/auTy8RCvwJ5tSjvZ8",
+        date: "2023 Mar 08",
+        desc: `Took Sue to The Belasco for our 2nd time and saw the much-anticipated Death to All show 🤘. DtA features musicians who worked with Chuck Schuldiner on his Death albums before his untimely passing from a brain tumor in 2001. It's an ongoing tribute to him and his music. I've seen them before, back home, with Obituary.`,
+        full: `<p class="content-text">Death are one of the two bands who are credited with creating death metal, the other being Possessed. They're one of my favorite bands. Suffocation, from back in NY, supported this time around (with the mighty Derek Boyer on bass) and Nukem opened. It was my first time seeing Nukem. They played a strong, thrashy set.</p>
+        
+        <p class="content-text">Steve Digiorgio was on bass duties for DtA, and Gene Hoglan (known as The Atomic Clock for his precision) was on drums! Steve and Gene are my absolute favorite rhythm section in metal. Death, in particular the "Human" and "Individual Thought Patterns" albums are imprinted into my brain from all of the years I've spent playing them on repeat. It was a privilege to see these two play together live.</p>`,
+        pics: ["2023-03-08-01.jpg", "2023-03-08-02.jpg", "2023-03-08-03.jpg", "2023-03-08-04.jpg", "2023-03-08-05.jpg", "2023-03-08-06.jpg", "2023-03-08-08.jpg", "2023-03-08-09.jpg", "2023-03-08-10.jpg", "2023-03-08-11.jpg", "2023-03-08-12.jpg", "2023-03-08-13.jpg", "2023-03-08-14.jpg", "2023-03-08-15.jpg", "2023-03-08-16.jpg", "2023-03-08-17.jpg", "2023-03-08-18.jpg", "2023-03-08-19.jpg", "2023-03-08-20.jpg", "2023-03-08-21.webp"]
+    },
+    {
         id: 11,
         name: "Twinkle Time",
         location: "La Mirada Theatre for the Performing Arts, La Mirada",
