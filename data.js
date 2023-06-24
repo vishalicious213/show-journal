@@ -1,5 +1,19 @@
 export default [
     {
+        id: 16,
+        name: "Vader / Krisiun / Decrepit Birth / Unidad Traumas",
+        location: "1720, Los Angeles",
+        map: "https://goo.gl/maps/jiCFjvtm9bVZin9G8",
+        date: "2023 Apr 17",
+        desc: `Second time at 1720 for me. First time seeing Vader, and it's been a long time coming. Both Jessica and Sue joined. Jess got there first and I found her right up front at the middle of the stage - the best spot 🤘. Sue made it there a bit later and missed the openers, a local act called Unidad Trauma. Jess has seen them multiple times before, as have other people I've met here in LA. I think it's Spanish for Trauma Unit. We were right up front, but the backlights made it hard to get clear pics.`,
+        full: `<p class="content-text">Vader are amazing live - energetic, charismatic, and they still bring the blast beats like they were early Morbid Angel. Krisiun played the single most-controlled death metal set that I've ever seen live. Their guitarist is a machine. It's like they're half a step from completely unleashing but are somehow cognizant of it and reign it in by a hair. They covered "Ace of Spades" towards the end of their set.<p>
+
+        <p class="content-text">Decrepit Birth are also really engaging live. Their bassist was the most skilled out of everyone tonight. The vocalist has a Charles Manson vibe and kept getting right up in Sue's space with his foot, which she found highly unappealing. He wanted to get a circle pit going and at one point just jumped off the stage and got the pit going himself. That was an interesting application of DIY. Unidad Trauma were new to me. They're a Cali & Mexican deathgrind band. The drummer reminds me of early Mick Harris and was really fun to hear. They dress up with something like black executioner hoods.</p>
+
+        <p class="content-text"></p>`,
+        pics: ["2023-04-17-02.jpg", "2023-04-17-03.jpg", "2023-04-17-04.jpg", "2023-04-17-05.jpg", "2023-04-17-06.jpg", "2023-04-17-07.jpg", "2023-04-17-08.jpg", "2023-04-17-09.jpg", "2023-04-17-10.jpg", "2023-04-17-11.jpg", "2023-04-17-12.jpg", "2023-04-17-13.jpg", "2023-04-17-14.jpg", "2023-04-17-15.jpg", "2023-04-17-16.jpg", "2023-04-17-17.jpg", "2023-04-17-18.jpg", "2023-04-17-19.jpg", "2023-04-17-20.jpg", "2023-04-17-21.jpg", "2023-04-17-22.jpg", "2023-04-17-23.jpg", "2023-04-17-24.jpg", "2023-04-17-25.jpg", "2023-04-17-26.jpg", "2023-04-17-27.jpg", "2023-04-17-28.jpg", "2023-04-17-29.jpg", "2023-04-17-30.jpg", "2023-04-17-31.jpg", "2023-04-17-32.jpg", "2023-04-17-33.jpg", "2023-04-17-34.jpg", "2023-04-17-35.jpg", "2023-04-17-36.jpg", "2023-04-17-37.jpg", "2023-04-17-38.jpg", "2023-04-17-39.jpg", "2023-04-17-40.jpg", "2023-04-17-41.jpg", "2023-04-17-01.jpg", ]
+    },
+    {
         id: 15,
         name: "Morbid Angel / Revocation / Skeletal Remains / Crypta",
         location: "The Regent Theater, Los Angeles",
