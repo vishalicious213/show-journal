@@ -1,5 +1,19 @@
 export default [
     {
+        id: 8,
+        name: "Front 242 / Xeno & Oaklander / Actors / Kite / Leathers",
+        location: "The Mayan, Los Angeles",
+        map: "https://goo.gl/maps/e7HLyN5DT8xkkDPCA",
+        date: "2022 Sep 29",
+        desc: `Front 242 with Sue. This venue is beautiful. The architecture is like a Mayan temple. It's 3 levels, about the size of Limelight, back home in NY. This might be my favorite venue in LA based on the architecture alone. It's also right next door to the Belasco, which shares a similar blueprint but has different aesthetics.`,
+        full: `<p class="content-text">This show was day one of Cold Waves X, a two-day event. The second day would have had Nitzer Ebb, who I really wanted to see, The Revolting Corpse, High Functioning Flesh, Rein and Spike Hellis. Nitzer Ebb is one of the originators of this style of electronica / industrial / electronic body music.<p>
+
+        <p class="content-text">I can't stress enough how much I love the ambiance of The Mayan. The architecture, the digital backdrop, the setup and layout of the bars (they're so conveniently located). You can fall back away from the lower floor by the stage behind a higher floor with standing tables which make it easy to see and enjoy a show while drinking - Sue and I spent the majority of the show in that area, within reach of a multitude of bars and bathrooms. I love this place.</p>
+
+        <p class="content-text">I was messaging with Ed from Disgorge about this venue and I mentioned to him that it has the coolest look out of any venue I've been to in LA. The bathrooms didn't follow the theme though. It's a missed opportunity - we could be taking a whizz into a sacrificial altar while the jaguar god looks down menacingly at our junk - but instead, there are normal urinals. 🐆</p>`,
+        pics: ["2022-09-29-01.jpg", "2022-09-29-02.jpg", "2022-09-29-03.jpg", "2022-09-29-04.jpg", "2022-09-29-05.jpg", "2022-09-29-06.jpg", "2022-09-29-08.jpg", "2022-09-29-09.jpg", "2022-09-29-10.jpg", "2022-09-29-11.jpg", "2022-09-29-12.jpg", "2022-09-29-13.jpg", "2022-09-29-14.jpg", "2022-09-29-15.jpg", "2022-09-29-16.jpg", "2022-09-29-17.jpg", "2022-09-29-18.jpg", "2022-09-29-19.jpg", "2022-09-29-20.jpg", "2022-09-29-21.jpg", "2022-09-29-22.jpg", "2022-09-29-23.jpg", "2022-09-29-24.jpg", "2022-09-29-25.jpg", "2022-09-29-26.jpg", "2022-09-29-27.jpg", "2022-09-29-28.jpg", "2022-09-29-29.jpg", "2022-09-29-30.jpg", "2022-09-29-31.jpg", "2022-09-29-32.jpg", "2022-09-29-33.jpg", "2022-09-29-34.jpg", "2022-09-29-35.jpg", "2022-09-29-36.jpg", "2022-09-29-37.jpg", "2022-09-29-38.jpg", "2022-09-29-39.jpg", "2022-09-29-40.jpg", "2022-09-29-41.jpg"]
+    },
+    {
         id: 7,
         name: "The Market of the Beast",
         location: "The Teragram Ballroom, Los Angeles",
