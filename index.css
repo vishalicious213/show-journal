@@ -193,6 +193,18 @@ header {
     margin-bottom: 1rem;
 }
 
+/* FOOTER */
+
+footer {
+    color: gainsboro;
+    font-size: .9rem;
+    text-shadow: 0 0 3px black;
+    text-align: center;
+    padding: 1rem;
+    background-color: #5e0101;
+    background-image: url(./public/header-background.png);
+}
+
 /* MEDIA QUERIES */
 
 @media screen and (min-width: 600px) {
