@@ -1,7 +1,7 @@
 export default function Footer() {
     return (
         <footer>
-            <p>...All flesh entwined...</p>
+            <p>🤘 2023 Vish Singh</p>
         </footer>
     )
 }
