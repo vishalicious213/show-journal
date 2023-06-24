@@ -1,5 +1,15 @@
 export default [
     {
+        id: 15,
+        name: "Morbid Angel / Revocation / Skeletal Remains / Crypta",
+        location: "The Regent Theater, Los Angeles",
+        map: "https://goo.gl/maps/u4hgRjGh3MkNUc8L9",
+        date: "2023 Mar 26",
+        desc: `This was both my and Sue's first time at The Regent. We saw the amazing lineup of Morbid Angel, Revocation, Skeletal Remains and Crypta. Morbid Angel, of course, are one of the original Tampa death metal bands, contemporaries of Death and Obituary. Crypta were really high energy. They're an all-woman Brazilian death metal band. I was looking forward to seeing them, as I've been following them on and off since 2019. Sue bought a shirt from their merch booth.`,
+        full: `<p class="content-text">Skeletal Remains are very solid and predictable, but that's somehow familiar and comforting. They remind me of Malignancy, from back home. Revocation were fun and have a lot of stage presence. Morbid Angel stayed with newer material but did do "God of Emptiness" and "Rapture". Steve Tucker sings the older stuff differently from how David Vincent used to do it. He shortened some lines, which threw me off because when I last saw them, Vincent was still in the band doing vocals and playing bass. It was also Trey Azagthoth's birthday. He turned 58! His family went up on stage and brought him a cake, but were ushered off so they could finish their set. 😉</p>`,
+        pics: ["2023-03-26-01.jpg", "2023-03-26-02.jpg", "2023-03-26-03.jpg", "2023-03-26-04.jpg", "2023-03-26-05.jpg", "2023-03-26-06.jpg", "2023-03-26-07.jpg", "2023-03-26-08.jpg", "2023-03-26-09.jpg", "2023-03-26-10.jpg", "2023-03-26-11.jpg", "2023-03-26-12.jpg", "2023-03-26-13.jpg"]
+    },
+    {
         id: 14,
         name: "Protect Me / Romeo Diablos / Xen Model / Audi Manana",
         location: "The Smell, Los Angeles",
