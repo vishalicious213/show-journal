@@ -1,5 +1,17 @@
 export default [
     {
+        id: 13,
+        name: "Candlemass / Unto Others / Early Moods",
+        location: "1720, Los Angeles",
+        map: "https://goo.gl/maps/jiCFjvtm9bVZin9G8",
+        date: "2023 Mar 17",
+        desc: `Saw Candlemass, Unto Others and Early Moods with Sue. Jess couldn't make it. She wasn't well. My first time at this venue. The neighborhood reminds me of parts of the Bronx, but dirtier. Candlemass are incredible live. Their set was amazing. This is our 2nd time seeing Unto Others. Early Moods are a local LA doom metal band and were fun. Jess has seen them before.`,
+        full: `<p class="content-text">Candlemass are essentially the godfathers of doom metal. They're from Sweden, where so much of my favorite music is from and have been playing since the early 80s. Their playing was solid and perfected, yet brought so much energy. Their showmanship is also top-notch. That set was one of my favorites from recent memory. I want to see them again.</p>
+        
+        <p class="content-text">Unto Others' sound wasn't as clear as when we originally saw them at Hollywood Palladium last year. They did a cover of "I Always Feel Like Somebody's Watching Me", which I didn't expect, but was fun. We found it funny that the DJ was playing a lot of Phil Collins and Genesis between sets from the bands, and Collins got a shout-out from a few of them. 😀</p>`,
+        pics: ["2023-03-17-01.jpg", "2023-03-17-02.jpg", "2023-03-17-03.jpg", "2023-03-17-04.jpg", "2023-03-17-05.jpg", "2023-03-17-06.jpg", "2023-03-17-07.jpg", "2023-03-17-08.jpg", "2023-03-17-09.jpg", "2023-03-17-10.jpg", "2023-03-17-11.jpg", "2023-03-17-12.jpg", "2023-03-17-13.jpg", "2023-03-17-14.jpg"]
+    },
+    {
         id: 12,
         name: "Death To All / Suffocation / Nukem",
         location: "The Belasco, Los Angeles",
