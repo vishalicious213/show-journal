@@ -129,6 +129,9 @@ header {
 .article {
     position: absolute;
     top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
     height: 100vh;
     z-index: 1;
     background-color: #0f0f0f;
@@ -160,7 +163,7 @@ header {
     overflow-x: scroll;
     margin: 0 auto 1rem;
     width: 84vw;
-    max-width: 1000px;
+    max-width: 960px;
     box-sizing: border-box;
 }
 
