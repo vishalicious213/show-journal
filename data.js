@@ -1,5 +1,15 @@
 export default [
     {
+        id: 14,
+        name: "Protect Me / Romeo Diablos / Xen Model / Audi Manana",
+        location: "The Smell, Los Angeles",
+        map: "https://goo.gl/maps/Z8Dg8QQAwPeuoG3S9",
+        date: "2023 Mar 19",
+        desc: `The Smell is a tiny, hole-in-the-wall venue that I've been curious about for a while. It hosts art shows and has a reputation for featuring sets from very small but creative musicians. Sue and I hit the venue after not finding what we were looking for at another place and serendipitously saw Protect Me, Romeo Diablos, Xen Model and Audi Manana. They all play different types of electronic music.`,
+        full: `<p class="content-text">The place is small and reminds me of St. Vitus, from Brooklyn, in size. It feels like some of the forgotten spaces that college kids in the Albany area back in NY used to throw together shows in the early 2000s. We spoke with one of the guys from Protect Me before his set and he showed us this peephole through a missing brick that has a view of the stage of the burlesque / drag show venue next door. It was a really fun change of pace from my usual metal-oriented picks. Sue made friends with the two dogs guarding the entrance and turned them into puppies.</p>`,
+        pics: ["2023-03-19-01.jpg", "2023-03-19-02.jpg", "2023-03-19-03.jpg", "2023-03-19-04.jpg", "2023-03-19-05.jpg", "2023-03-19-06.jpg", "2023-03-19-07.jpg", "2023-03-19-08.jpg", "2023-03-19-09.jpg", "2023-03-19-10.jpg", "2023-03-19-11.jpg", "2023-03-19-12.jpg", "2023-03-19-13.jpg", "2023-03-19-14.jpg", "2023-03-19-15.jpg"]
+    },
+    {
         id: 13,
         name: "Candlemass / Unto Others / Early Moods",
         location: "1720, Los Angeles",
