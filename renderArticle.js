@@ -4,7 +4,7 @@ export default function renderArticle(data) {
     const pics = data.pics.map(pic => `<img class="article-img" src=/shows/${pic} alt=${data.name} />`).join("")
     article.classList.remove("hidden")
     root.classList.add("hidden")
-    // console.log(data)
+    article.scrollIntoView()
 
     article.innerHTML=`
         <button class="article-button" data-article=${data.id}>Close article</button>
